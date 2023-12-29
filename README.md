@@ -8,6 +8,8 @@ Script automatizado para tu entorno de hacking. La mayor parte del proyecto se r
 * Instala Oh-My-Zsh + Powerlevel10K
 * Instala rofi (lanzador de aplicaciones)
 * Instala feh (visor de imagenes)
+* Instala colorls (Comando ls con colores bien identificativos)
+* Instala batcat (Cat con añadidos, como restaltar el código en distintos lenguajes de programación)
 * Instala fuente "Hack Nerd Font"
 * Modifica colores de terminal kitty
 * Modifica el prompt de powerlevek10K
