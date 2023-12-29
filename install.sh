@@ -16,9 +16,9 @@ cp kitty.conf ~/.config/kitty/kitty.conf
 cp p10k.zsh ~/.p10k.zsh
 
 clear
-echo "Mod instalado con éxito, El equipo se reiniciará automáticamente en 5s"
+echo "Mod instalado con éxito, El equipo se reiniciará automáticamente en 10s"
 echo "Al iniciar, recuerda cambiar al entorno BSPWM"
 echo "Sígueme en github "Glmbxecurity""
-sleep 3
+sleep 10
 reboot
 exit
