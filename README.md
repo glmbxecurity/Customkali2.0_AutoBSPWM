@@ -39,7 +39,17 @@ git clone https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM.git personaliz
 * Listo! a disfrutar de tu nuevo entorno.
 
 ## Consideraciones a tener en cuenta
-El script está preparado para cambiar el layout del teclado al Español de España. Si no quieres cambiar el layout, simplemente elimina el fichero **keyboard** después de hacer el **git clone** o cambiar el idioma al reiniciar en la pantalla de login
+El script está preparado para cambiar el layout del teclado al Español de España. Si no quieres cambiar el layout, simplemente elimina el fichero **keyboard** después de hacer el **git clone** o cambiar el idioma al reiniciar en la pantalla de login  
+  
+## Set target para hacking
+Para establecer un target cuando estamos con un CTF, introducimos el siguiente comando:  
+![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/2c552ea5-d78e-4d5f-87b3-9dae20ec67c0)
+
+```bash
+settarget <ip maquina>
+```
+
+
 
 # shortcuts
 ```bash
