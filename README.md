@@ -23,14 +23,17 @@ Script automatizado para tu entorno de hacking. La mayor parte del proyecto se r
 
 
 ## Instalacion
-``` sudo apt update && git clone https://github.com/glmbxecurity/Autobspwm && cd Autobspwm && chmod +x install.sh && ./install.sh ```  
+```bash
+sudo apt update && git clone https://github.com/glmbxecurity/Autobspwm && cd Autobspwm && chmod +x install.sh && ./install.sh
+```  
 Cuando termine, nos pedirá elegir un tema. elegimos uno cualquiera y pulsamos **Alt + a**.
 
-Seguidamente , salimos al directorio $HOME del usuario e introducimos el siguiente comando (esto reiniciará el equipo)  
-``` git clone https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM.git personalizacion && cd personalizacion && chmod +x ./install.sh && ./install.sh``` 
-* Al iniciar recuerda cambiar de entorno a bspwm tal como se hace en la siguiente imagen:
-![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/e8a654ea-6085-4636-b860-23fbf7468d89)
+Seguidamente , cerramos sesión e iniciamos ya con el entormo bspwm e introducimos el siguiente comando (esto reiniciará el equipo)  
+![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/e8a654ea-6085-4636-b860-23fbf7468d89)  
 
+```bash
+git clone https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM.git personalizacion && cd personalizacion && chmod +x ./install.sh && ./install.sh
+```   
 
 * Listo! a disfrutar de tu nuevo entorno.
 
