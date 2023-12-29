@@ -39,7 +39,7 @@ git clone https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM.git personaliz
 * Listo! a disfrutar de tu nuevo entorno.
 
 ## Consideraciones a tener en cuenta
-El script está preparado para cambiar el layout del teclado al Español de España. Si no quieres cambiar el layout, simplemente elimina el fichero **keyboard** después de hacer el **git clone**
+El script está preparado para cambiar el layout del teclado al Español de España. Si no quieres cambiar el layout, simplemente elimina el fichero **keyboard** después de hacer el **git clone** o cambiar el idioma al reiniciar
 
 # shortcuts
 ```bash
