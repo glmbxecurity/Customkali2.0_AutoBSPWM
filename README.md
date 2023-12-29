@@ -6,7 +6,7 @@ Script automatizado para tu entorno de hacking. La mayor parte del proyecto se r
 [aqui van las imagenes]  
 
 ## Instalacion
-``` sudo apt update && git clone https://github.com/Lafassj/KaliLafa.git && cd KaliLafa && chmod +x install.sh && ./install.sh ```
+``` sudo apt update && git clone https://github.com/Lafassj/KaliLafa.git && cd KaliLafa && chmod +x install.sh && ./install.sh ```  
 Cuando termine, nos pedirá elegir un tema. elegimos uno cualquiera y pulsamos **Alt + a**. Salimos de la sesión y cambiamos el entorno por BSPWM en la pantalla de login.  
 
 Al iniciar sesión ejecutamos el siguiente comando:  
