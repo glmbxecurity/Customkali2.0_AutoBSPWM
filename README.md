@@ -11,7 +11,7 @@ Cuando termine, nos pedirá elegir un tema. elegimos uno cualquiera y pulsamos *
 
 Al iniciar sesión ejecutamos el siguiente comando:  
 ``` git clone https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM.git personalizacion && cd personalizacion && chmod +x ./install.sh && ./install.sh``` 
-* Reiniciar el equipo
+* Cerramos sesión y volvemos a abrir.
 * Listo! a disfrutar de tu nuevo entorno.
 
 # shortcuts
