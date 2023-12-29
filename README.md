@@ -14,7 +14,7 @@ Script automatizado para tu entorno de hacking. La mayor parte del proyecto se r
 Cuando termine, nos pedirá elegir un tema. elegimos uno cualquiera y pulsamos **Alt + a**. Salimos de la sesión y cambiamos el entorno por BSPWM en la pantalla de login.  
 
 Al iniciar sesión ejecutamos el siguiente comando:  
-``` git clone https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM.git personalizacion && cd personalizacion && chmod +x ./install.sh && ./install.sh``` 
+``` cd ~/ & git clone https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM.git personalizacion && cd personalizacion && chmod +x ./install.sh && ./install.sh``` 
 * Reiniciamos equipo y a funcionar
 * Listo! a disfrutar de tu nuevo entorno.
 
