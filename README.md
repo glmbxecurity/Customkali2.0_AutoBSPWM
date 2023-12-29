@@ -23,7 +23,7 @@ Script automatizado para tu entorno de hacking. La mayor parte del proyecto se r
 
 
 ## Instalacion
-``` sudo apt update && git clone https://github.com/Lafassj/KaliLafa.git && cd KaliLafa && chmod +x install.sh && ./install.sh ```  
+``` sudo apt update && git clone https://github.com/glmbxecurity/Autobspwm && cd Autobspwm && chmod +x install.sh && ./install.sh ```  
 Cuando termine, nos pedirá elegir un tema. elegimos uno cualquiera y pulsamos **Alt + a**.
 
 Seguidamente introducimos el siguiente comando (esto reiniciará el equipo)  
