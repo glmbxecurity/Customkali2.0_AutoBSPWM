@@ -1,6 +1,17 @@
 # Customkali2.0_AutoBSPWM
 
-Script automatizado para tu entorno de hacking. La mayor parte del proyecto se recoge del repositorio [kalilifa](https://github.com/Lafassj/KaliLafa)  
+Script automatizado para tu entorno de hacking. La mayor parte del proyecto se recoge del repositorio [kalilifa](https://github.com/Lafassj/KaliLafa), este mod realiza los siguientes cambios:  
+* Instala bspwm
+* instala polybar
+* Instala kitty
+* Cambia a zsh
+* Instala Oh-My-Zsh + Powerlevel10K
+* Instala rofi (lanzador de aplicaciones)
+* Instala feh (visor de imagenes)
+* Instala fuente "Hack Nerd Font"
+* Modifica colores de terminal kitty
+* Modifica el prompt de powerlevek10K
+* Instala un wallpaper personalizado
 
 ## Preview del mod
 ![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/274f031e-62b5-4e12-a70b-8b66d05e12bc)
