@@ -14,6 +14,7 @@ sudo cp keyboard /etc/default/keyboard
 cp color.ini ~/.config/kitty/color.ini
 cp kitty.conf ~/.config/kitty/kitty.conf
 cp p10k.zsh ~/.p10k.zsh
+sudo cp p10k.zsh /root/.p10k.zsh
 
 clear
 echo "Mod instalado con éxito, El equipo se reiniciará automáticamente en 5s"
