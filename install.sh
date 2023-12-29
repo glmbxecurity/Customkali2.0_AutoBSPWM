@@ -15,8 +15,10 @@ cp color.ini ~/.config/kitty/color.ini
 cp kitty.conf ~/.config/kitty/kitty.conf
 cp p10k.zsh ~/.p10k.zsh
 
-echo "Mod instalado con éxito, El equipo se reiniciará"
+clear
+echo "Mod instalado con éxito, El equipo se reiniciará al pulsar enter"
+echo "Al iniciar, recuerda cambiar al entorno BSPWM"
 echo "Sígueme en github "Glmbxecurity""
-sleep 2
+sleep 3
 reboot
 exit
