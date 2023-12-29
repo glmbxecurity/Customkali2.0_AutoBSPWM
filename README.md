@@ -29,7 +29,8 @@ Cuando termine, nos pedirá elegir un tema. elegimos uno cualquiera y pulsamos *
 Seguidamente , salimos al directorio $HOME del usuario e introducimos el siguiente comando (esto reiniciará el equipo)  
 ``` git clone https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM.git personalizacion && cd personalizacion && chmod +x ./install.sh && ./install.sh``` 
 * Al iniciar recuerda cambiar de entorno a bspwm tal como se hace en la siguiente imagen:
-![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/1cd4b86a-5d25-4593-b4eb-83d494ed0a82)
+![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/e8a654ea-6085-4636-b860-23fbf7468d89)
+
 
 * Listo! a disfrutar de tu nuevo entorno.
 
