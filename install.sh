@@ -15,9 +15,8 @@ cp color.ini ~/.config/kitty/color.ini
 cp kitty.conf ~/.config/kitty/kitty.conf
 cp p10k.zsh ~/.p10k.zsh
 
-echo "Mod instalado con éxito, Enter para salir"
-read A
-echo
+echo "Mod instalado con éxito, El equipo se reiniciará"
 echo "Sígueme en github "Glmbxecurity""
 sleep 2
+reboot
 exit
