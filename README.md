@@ -13,9 +13,9 @@ Script automatizado para tu entorno de hacking. La mayor parte del proyecto se r
 ``` sudo apt update && git clone https://github.com/Lafassj/KaliLafa.git && cd KaliLafa && chmod +x install.sh && ./install.sh ```  
 Cuando termine, nos pedirá elegir un tema. elegimos uno cualquiera y pulsamos **Alt + a**.
 
-Seguidamente introducimos el siguiente comando (esto reiniciará el equipo)
+Seguidamente introducimos el siguiente comando (esto reiniciará el equipo)  
 ``` cd ~/ & git clone https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM.git personalizacion && cd personalizacion && chmod +x ./install.sh && ./install.sh``` 
-* Si no se reinicia, reiniciar manualmente y cambia de entorno a bspwm tal como se hace en la siguiente imagen:
+* Al iniciar recuerda cambiar de entorno a bspwm tal como se hace en la siguiente imagen:
 ![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/1cd4b86a-5d25-4593-b4eb-83d494ed0a82)
 
 * Listo! a disfrutar de tu nuevo entorno.
