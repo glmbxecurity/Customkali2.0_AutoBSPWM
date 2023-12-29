@@ -2,8 +2,12 @@
 
 Script automatizado para tu entorno de hacking. La mayor parte del proyecto se recoge del repositorio [kalilifa](https://github.com/Lafassj/KaliLafa)  
 
-## AutobsPWM 
-[aqui van las imagenes]  
+## Preview del mod
+![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/274f031e-62b5-4e12-a70b-8b66d05e12bc)
+![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/8ef532e7-f5c2-440f-b97e-f431a0543834)
+
+![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/9299dfce-4309-4eca-8a48-89836110dd72)
+ 
 
 ## Instalacion
 ``` sudo apt update && git clone https://github.com/Lafassj/KaliLafa.git && cd KaliLafa && chmod +x install.sh && ./install.sh ```  
