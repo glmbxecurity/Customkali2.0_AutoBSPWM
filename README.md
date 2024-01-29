@@ -70,6 +70,6 @@ windows + shift + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio la ventana actual 
 ============================================================================================================
 ```
 ## Cambiar wallpaper + Wallpapers adicionales
-Si prefieres otro wallpaper, se edita el fichero: ~/.config/Wallpaper/.  
+Si prefieres otro wallpaper, se edita el fichero: ~/.config/bspwm/bspwmrc
 ![wall_adicional1](https://raw.githubusercontent.com/glmbxecurity/Customkali2.0_AutoBSPWM/main/wallpapers_adicionales/wallpaper2.png)  
 ![wall_adicional2](https://raw.githubusercontent.com/glmbxecurity/Customkali2.0_AutoBSPWM/main/wallpapers_adicionales/wallpaper3.png)  
