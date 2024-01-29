@@ -38,8 +38,7 @@ git clone https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM.git personaliz
 ![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/e8a654ea-6085-4636-b860-23fbf7468d89)  
 * Listo! a disfrutar de tu nuevo entorno.
 
-## Cambiar wallpaper
-Si prefieres otro wallpaper, se edita el fichero: ~/.config/Wallpaper/.
+
 ## Consideraciones a tener en cuenta
 El script está preparado para cambiar el layout del teclado al Español de España. Si no quieres cambiar el layout, simplemente elimina el fichero **keyboard** después de hacer el **git clone** o cambiar el idioma al reiniciar en la pantalla de login  
   
@@ -70,3 +69,7 @@ windows + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio
 windows + shift + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio la ventana actual al escritorio seleccionado
 ============================================================================================================
 ```
+## Cambiar wallpaper + Wallpapers adicionales
+Si prefieres otro wallpaper, se edita el fichero: ~/.config/Wallpaper/.  
+![wall_adicional1](https://raw.githubusercontent.com/glmbxecurity/Customkali2.0_AutoBSPWM/main/wallpapers_adicionales/wallpaper2.png)  
+![wall_adicional2](https://raw.githubusercontent.com/glmbxecurity/Customkali2.0_AutoBSPWM/main/wallpapers_adicionales/wallpaper3.png)  
