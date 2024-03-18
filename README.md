@@ -45,7 +45,8 @@ El script está preparado para cambiar el layout del teclado al Español de Espa
   
 ## Set target para hacking
 Para establecer un target cuando estamos con un CTF, introducimos el siguiente comando:  
-![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/2c552ea5-d78e-4d5f-87b3-9dae20ec67c0)
+![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/b6712c12-0d95-4311-8f7f-240a01e0e9e3)
+
 
 ```bash
 settarget <ip maquina>
