@@ -6,8 +6,8 @@ echo "-Configurar colores de kitty"
 echo "-Configurar colores del tema Powerlevel10k"
 
 rm ~/Wallpaper/lafa.jpg
-wget https://raw.githubusercontent.com/whoisYoges/lwalpapers/PicturesOnly/wallpapers/b-832.jpg
-mv b-832.jpg ~/Wallpaper/lafa.jpg
+wget https://raw.githubusercontent.com/glmbxecurity/Customkali2.0_AutoBSPWM/main/wallpapers_adicionales/wallpaper2.png
+mv wallpaper2.png ~/Wallpaper/lafa.jpg
 
 sudo cp keyboard /etc/default/keyboard
 
