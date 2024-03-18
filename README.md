@@ -86,6 +86,8 @@ En p10k.zsh los parametros son los siguientes:
   typeset -g POWERLEVEL9K_OS_ICON_CONTENT_EXPANSION='⭐' (linea 190 del fichero)
   typeset -g POWERLEVEL9K_DIR_BACKGROUND=4 (Linea 217 del fichero)
   typeset -g POWERLEVEL9K_DIR_FOREGROUND=254 (Linea 219 del fichero)
+  typeset -g POWERLEVEL9K_DIR_SHORTENED_FOREGROUND=196 (color path prompt)
+  typeset -g POWERLEVEL9K_DIR_ANCHOR_FOREGROUND=196 (color primer elemento path prompt)
   
 
 ```
