@@ -91,6 +91,13 @@ En p10k.zsh los parametros son los siguientes:
   
 
 ```
+## Syntax Highhlighting edit
+Si quieres editar el syntax highlighting basta con añadir los parámetros que podemos consultar en el [manual](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/docs/highlighters/main.md). al final del fichero .zshrc. Un ejemplo:  
+```
+ZSH_HIGHLIGHT_STYLES[suffix-alias]=fg=blue,underline
+ZSH_HIGHLIGHT_STYLES[precommand]=fg=blue,underline
+ZSH_HIGHLIGHT_STYLES[arg0]=fg=blue
+```
 
 #### Recursos
 * [Descargar iconos aquí](https://www.nerdfonts.com/cheat-sheet)  
