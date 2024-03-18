@@ -17,10 +17,10 @@ Script automatizado para tu entorno de hacking. La mayor parte del proyecto se r
 
 ## Preview del mod
 ![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/3d7feb37-fd6a-400f-8a9a-2097515f8da0)
-![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/270bfe54-f544-49f4-8742-f9f4b59cff46)
+![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/fce236f1-1d92-45ba-b850-76289b354504)
+![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/e76ab0e7-cdb2-45b4-85ed-4e17940b1574)
+![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/58555e54-5980-49bd-be74-0843cd374d7e)
 
-![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/9299dfce-4309-4eca-8a48-89836110dd72)
-![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/1b0642e8-245a-42af-b08c-80afe67dad07)
 
 
 ## Instalacion
