@@ -16,8 +16,9 @@ Script automatizado para tu entorno de hacking. La mayor parte del proyecto se r
 * Instala un wallpaper personalizado
 
 ## Preview del mod
-![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/274f031e-62b5-4e12-a70b-8b66d05e12bc)
-![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/8ef532e7-f5c2-440f-b97e-f431a0543834)
+![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/3d7feb37-fd6a-400f-8a9a-2097515f8da0)
+![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/270bfe54-f544-49f4-8742-f9f4b59cff46)
+
 ![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/9299dfce-4309-4eca-8a48-89836110dd72)
 ![image](https://github.com/glmbxecurity/Customkali2.0_AutoBSPWM/assets/137443771/1b0642e8-245a-42af-b08c-80afe67dad07)
 
