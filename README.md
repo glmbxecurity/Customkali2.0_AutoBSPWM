@@ -72,4 +72,24 @@ windows + shift + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio la ventana actual 
 ## Cambiar wallpaper + Wallpapers adicionales
 Si prefieres otro wallpaper, se edita el fichero: ~/.config/bspwm/bspwmrc
 ![Alt text](image.png)
-![wall_adicional2](https://raw.githubusercontent.com/glmbxecurity/Customkali2.0_AutoBSPWM/main/wallpapers_adicionales/wallpaper3.png)  
+![wall_adicional2](https://raw.githubusercontent.com/glmbxecurity/Customkali2.0_AutoBSPWM/main/wallpapers_adicionales/wallpaper3.png) 
+
+## Extra  
+Si quieres cambiar alguna configuración:  
+* Para personalizar los colores de la terminal, se pueden editar los ficheros /home/kali/.config/kitty/kitty.conf  
+* Para personalizar los colores del prompt, se puede editar el fichero /home/kali/.p10k.zsh
+```
+En p10k.zsh los parametros son los siguientes:
+
+  typeset -g POWERLEVEL9K_OS_ICON_FOREGROUND=232 (Linea 187 del fichero)
+  typeset -g POWERLEVEL9K_OS_ICON_BACKGROUND=148 (Linea 188 del fichero)
+  typeset -g POWERLEVEL9K_OS_ICON_CONTENT_EXPANSION='⭐' (linea 190 del fichero)
+  typeset -g POWERLEVEL9K_DIR_BACKGROUND=4 (Linea 217 del fichero)
+  typeset -g POWERLEVEL9K_DIR_FOREGROUND=254 (Linea 219 del fichero)
+  
+
+```
+
+#### Recursos
+* [Descargar iconos aquí](https://www.nerdfonts.com/cheat-sheet)  
+* **Sacar paleta de colores de powerlevel10k** ``` for i in {0..255}; do print -Pn “%K{$i} %k%F{$i}${(l:3::0:)i}%f “ ${${(M)$((i%6)):#3}:+$’\n’}; done ```
