@@ -24,7 +24,8 @@ Script automatizado para tu entorno de hacking. La mayor parte del proyecto se r
 
 
 ## Instalacion
-Introducimos el siguiente comando (NO INTRODUCIRLO COMO ROOT, sino dará PROBLEMAS)
+Introducimos el siguiente comando (NO INTRODUCIRLO COMO ROOT, sino dará PROBLEMAS)  
+IMPOSTANTE: en algun momento nos pedirá reiniciar algun servicio, le decimos que no. Sino nunca se instalará bien  
 ```bash
 sudo apt update && git clone https://github.com/glmbxecurity/Autobspwm && cd Autobspwm && chmod +x install.sh && ./install.sh
 ```  
